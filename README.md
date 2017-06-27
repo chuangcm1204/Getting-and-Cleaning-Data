@@ -4,10 +4,10 @@ For creating a tidy data set of wearable computing data originally from http://a
 
 # Files in this repository
 
-README.md -- This document
-CodeBook.md -- Codebook describing variables, the data and transformations
-run_analysis.R -- R code for tidying data
-tidy_data.txt -- the tidy data result after runnung R code
+README.md -- This document.
+CodeBook.md -- Codebook describing variables, the data and transformations. 
+run_analysis.R -- R code for tidying data. 
+tidy_data.txt -- the tidy data result after runnung R code. 
 
 Create one R script called run_analysis.R that does the following:
 
